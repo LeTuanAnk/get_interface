@@ -1,0 +1,177 @@
+current_position = 9585
+EBUG] main, 11: Start 
+[2025-04-09 08:36:24] [DEBUG] main, 16: End 
+[2025-04-09 08:39:47] [DEBUG] main, 11: Start 
+[2025-04-09 08:39:47] [DEBUG] main, 16: End 
+[2025-04-09 09:16:57] [DEBUG] main, 11: Start 
+[2025-04-09 09:16:57] [DEBUG] main, 16: End 
+[2025-04-09 09:17:09] [DEBUG] main, 11: Start 
+[2025-04-09 09:17:09] [DEBUG] main, 16: End 
+[2025-04-09 09:18:39] [DEBUG] main, 11: Start 
+[2025-04-09 09:18:39] [WARN] PO_parse_combined_options, 169: Usage: get_info [-R] MODE[,MODE]...
+[2025-04-09 09:19:03] [DEBUG] main, 11: Start 
+[2025-04-09 09:19:03] [DEBUG] main, 16: End 
+[2025-04-09 09:19:24] [DEBUG] main, 11: Start 
+[2025-04-09 09:19:24] [DEBUG] PO_parse_combined_options, 114: DONE ADD 
+[2025-04-09 09:19:24] [DEBUG] main, 16: End 
+[2025-04-09 09:24:37] [DEBUG] main, 11: Start 
+[2025-04-09 09:24:37] [DEBUG] main, 16: End 
+[2025-04-09 09:24:48] [DEBUG] main, 11: Start 
+[2025-04-09 09:24:48] [DEBUG] PO_parse_combined_options, 114: DONE ADD 
+[2025-04-09 09:24:48] [DEBUG] main, 16: End 
+[2025-04-09 09:35:42] [DEBUG] main, 11: Start 
+[2025-04-09 09:35:42] [WARN] PO_parse_combined_options, 169: Usage: get_info [-R] MODE[,MODE]...
+[2025-04-09 09:35:48] [DEBUG] main, 11: Start 
+[2025-04-09 09:35:48] [DEBUG] main, 16: End 
+[2025-04-09 09:36:01] [DEBUG] main, 11: Start 
+[2025-04-09 09:53:11] [DEBUG] main, 11: Start 
+[2025-04-09 09:53:11] [DEBUG] main, 16: End 
+[2025-04-09 09:53:20] [DEBUG] main, 11: Start 
+[2025-04-09 10:01:03] [DEBUG] main, 11: Start 
+[2025-04-09 10:03:42] [DEBUG] main, 11: Start 
+[2025-04-09 10:03:42] [ERROR] PO_parse_combined_options, 100: Usage: get_info -g [test]
+[2025-04-09 10:03:42] [DEBUG] main, 16: End 
+[2025-04-09 10:03:44] [DEBUG] main, 11: Start 
+[2025-04-09 10:03:44] [DEBUG] main, 16: End 
+[2025-04-09 10:03:53] [DEBUG] main, 11: Start 
+[2025-04-09 10:03:53] [DEBUG] PO_parse_combined_options, 114: DONE ADD 
+[2025-04-09 10:03:53] [DEBUG] main, 16: End 
+[2025-04-09 10:04:52] [DEBUG] main, 11: Start 
+[2025-04-09 10:04:52] [DEBUG] main, 16: End 
+[2025-04-09 10:07:52] [DEBUG] main, 11: Start 
+[2025-04-09 10:07:52] [DEBUG] PO_parse_combined_options, 150: DONE DELETE
+[2025-04-09 10:07:52] [DEBUG] main, 16: End 
+[2025-04-09 10:08:20] [DEBUG] main, 11: Start 
+[2025-04-09 10:08:20] [WARN] PO_parse_combined_options, 169: Usage: get_info [-R] MODE[,MODE]...
+[2025-04-09 10:08:23] [DEBUG] main, 11: Start 
+[2025-04-09 10:08:23] [DEBUG] PO_parse_combined_options, 114: DONE ADD 
+[2025-04-09 10:08:23] [DEBUG] main, 16: End 
+[2025-04-09 10:08:52] [DEBUG] main, 11: Start 
+[2025-04-09 10:08:52] [DEBUG] PO_parse_combined_options, 150: DONE DELETE
+[2025-04-09 10:08:52] [DEBUG] main, 16: End 
+[2025-04-09 10:18:21] [DEBUG] main, 11: Start 
+[2025-04-09 10:18:21] [DEBUG] main, 16: End 
+[2025-04-09 10:18:36] [DEBUG] main, 11: Start 
+[2025-04-09 10:18:36] [ERROR] PO_parse_combined_options, 119: ERROR ADD
+[2025-04-09 10:18:36] [DEBUG] main, 16: End 
+[2025-04-09 10:18:52] [DEBUG] main, 11: Start 
+[2025-04-09 10:18:52] [DEBUG] PO_parse_combined_options, 115: DONE ADD 
+[2025-04-09 10:18:52] [DEBUG] main, 16: End 
+[2025-04-09 10:28:26] [DEBUG] main, 11: Start 
+[2025-04-09 10:28:26] [DEBUG] main, 16: End 
+[2025-04-09 10:28:37] [DEBUG] main, 11: Start 
+[2025-04-09 10:28:37] [ERROR] PO_parse_combined_options, 119: ERROR ADD
+[2025-04-09 10:28:37] [DEBUG] main, 16: End 
+[2025-04-09 10:28:44] [DEBUG] main, 11: Start 
+[2025-04-09 10:28:44] [DEBUG] PO_parse_combined_options, 115: DONE ADD 
+[2025-04-09 10:28:44] [DEBUG] main, 16: End 
+[2025-04-09 10:28:58] [DEBUG] main, 11: Start 
+[2025-04-09 10:28:58] [DEBUG] PO_parse_combined_options, 115: DONE ADD 
+[2025-04-09 10:28:58] [DEBUG] main, 16: End 
+[2025-04-09 10:29:10] [DEBUG] main, 11: Start 
+[2025-04-09 10:29:10] [DEBUG] PO_parse_combined_options, 153: DONE DELETE
+[2025-04-09 10:29:10] [DEBUG] main, 16: End 
+[2025-04-09 10:29:13] [DEBUG] main, 11: Start 
+[2025-04-09 10:29:13] [DEBUG] PO_parse_combined_options, 153: DONE DELETE
+[2025-04-09 10:29:13] [DEBUG] main, 16: End 
+[2025-04-09 10:48:16] [DEBUG] main, 11: Start 
+[2025-04-09 10:48:16] [DEBUG] PO_parse_combined_options, 153: DONE DELETE
+[2025-04-09 10:48:16] [DEBUG] main, 16: End 
+[2025-04-09 10:48:34] [DEBUG] main, 11: Start 
+[2025-04-09 10:48:34] [DEBUG] PO_parse_combined_options, 153: DONE DELETE
+[2025-04-09 10:48:34] [DEBUG] main, 16: End 
+[2025-04-09 10:48:47] [DEBUG] main, 11: Start 
+[2025-04-09 10:48:47] [DEBUG] PO_parse_combined_options, 153: DONE DELETE
+[2025-04-09 10:48:47] [DEBUG] main, 16: End 
+[2025-04-09 13:59:13] [DEBUG] main, 11: Start 
+[2025-04-09 13:59:13] [DEBUG] PO_parse_combined_options, 153: DONE DELETE
+[2025-04-09 13:59:13] [DEBUG] main, 16: End 
+[2025-04-09 13:59:24] [DEBUG] main, 11: Start 
+[2025-04-09 13:59:24] [DEBUG] PO_parse_combined_options, 130: Searching for: br0
+[2025-04-09 13:59:24] [DEBUG] PO_parse_combined_options, 140: Interface not found. 
+[2025-04-09 13:59:24] [DEBUG] main, 16: End 
+[2025-04-09 13:59:31] [DEBUG] main, 11: Start 
+[2025-04-09 13:59:31] [DEBUG] PO_parse_combined_options, 130: Searching for: br3
+[2025-04-09 13:59:31] [DEBUG] PO_parse_combined_options, 136: DONE SEARCH
+[2025-04-09 13:59:31] [DEBUG] main, 16: End 
+[2025-04-09 14:08:43] [DEBUG] main, 11: Start 
+[2025-04-09 14:08:43] [DEBUG] PO_parse_combined_options, 130: Searching for: br2
+[2025-04-09 14:08:43] [DEBUG] PO_parse_combined_options, 140: Interface not found. 
+[2025-04-09 14:08:43] [DEBUG] main, 16: End 
+[2025-04-09 14:09:12] [DEBUG] main, 11: Start 
+[2025-04-09 14:09:13] [DEBUG] PO_parse_combined_options, 115: DONE ADD 
+[2025-04-09 14:09:13] [DEBUG] main, 16: End 
+[2025-04-09 14:10:59] [DEBUG] main, 11: Start 
+[2025-04-09 14:10:59] [DEBUG] PO_parse_combined_options, 130: Searching for: br2
+[2025-04-09 14:10:59] [DEBUG] PO_parse_combined_options, 136: DONE SEARCH
+[2025-04-09 14:10:59] [DEBUG] main, 16: End 
+[2025-04-09 14:11:03] [DEBUG] main, 11: Start 
+[2025-04-09 14:11:03] [DEBUG] PO_parse_combined_options, 153: DONE DELETE
+[2025-04-09 14:11:03] [DEBUG] main, 16: End 
+[2025-04-09 14:21:29] [DEBUG] main, 11: Start 
+[2025-04-09 14:21:29] [DEBUG] main, 18: End 
+[2025-04-09 14:46:11] [DEBUG] main, 11: Start 
+[2025-04-09 14:52:35] [DEBUG] main, 11: Start 
+[2025-04-09 14:52:35] [DEBUG] main, 18: End 
+[2025-04-09 14:52:52] [DEBUG] main, 11: Start 
+[2025-04-09 14:52:52] [DEBUG] PO_parse_combined_options, 100: Searching for: br0
+[2025-04-09 14:52:52] [DEBUG] PO_parse_combined_options, 106: DONE SEARCH
+[2025-04-09 14:52:52] [DEBUG] main, 18: End 
+[2025-04-09 14:53:03] [DEBUG] main, 11: Start 
+[2025-04-09 14:53:03] [DEBUG] PO_parse_combined_options, 88: DONE ADD 
+[2025-04-09 14:53:03] [DEBUG] main, 18: End 
+[2025-04-09 15:39:06] [DEBUG] main, 11: Start 
+[2025-04-09 15:39:06] [DEBUG] main, 18: End 
+[2025-04-09 15:39:18] [DEBUG] main, 11: Start 
+[2025-04-09 15:39:18] [DEBUG] PO_parse_combined_options, 88: DONE ADD 
+[2025-04-09 15:39:18] [DEBUG] main, 18: End 
+[2025-04-09 15:39:23] [DEBUG] main, 11: Start 
+[2025-04-09 15:39:23] [DEBUG] PO_parse_combined_options, 88: DONE ADD 
+[2025-04-09 15:39:23] [DEBUG] main, 18: End 
+[2025-04-09 15:41:14] [DEBUG] main, 11: Start 
+[2025-04-09 15:41:14] [DEBUG] main, 18: End 
+[2025-04-09 15:41:27] [DEBUG] main, 11: Start 
+[2025-04-09 15:41:27] [DEBUG] PO_parse_combined_options, 121: DONE DELETE
+[2025-04-09 15:41:27] [DEBUG] main, 18: End 
+[2025-04-09 15:41:30] [DEBUG] main, 11: Start 
+[2025-04-09 15:41:30] [DEBUG] PO_parse_combined_options, 121: DONE DELETE
+[2025-04-09 15:41:30] [DEBUG] main, 18: End 
+[2025-04-09 15:41:35] [DEBUG] main, 11: Start 
+[2025-04-09 15:41:35] [DEBUG] PO_parse_combined_options, 121: DONE DELETE
+[2025-04-09 15:41:35] [DEBUG] main, 18: End 
+[2025-04-09 15:41:46] [DEBUG] main, 11: Start 
+[2025-04-09 15:41:46] [DEBUG] PO_parse_combined_options, 88: DONE ADD 
+[2025-04-09 15:41:46] [DEBUG] main, 18: End 
+[2025-04-09 15:41:51] [DEBUG] main, 11: Start 
+[2025-04-09 15:41:51] [DEBUG] PO_parse_combined_options, 88: DONE ADD 
+[2025-04-09 15:41:51] [DEBUG] main, 18: End 
+[2025-04-09 15:43:11] [DEBUG] main, 11: Start 
+[2025-04-09 15:43:11] [DEBUG] PO_parse_combined_options, 88: DONE ADD 
+[2025-04-09 15:43:11] [DEBUG] main, 18: End 
+[2025-04-09 15:45:57] [DEBUG] main, 11: Start 
+[2025-04-09 15:45:57] [DEBUG] main, 18: End 
+[2025-04-09 15:46:12] [DEBUG] main, 11: Start 
+[2025-04-09 15:46:12] [DEBUG] PO_parse_combined_options, 88: DONE ADD 
+[2025-04-09 15:46:12] [DEBUG] main, 18: End 
+[2025-04-09 15:46:16] [DEBUG] main, 11: Start 
+[2025-04-09 15:46:16] [DEBUG] PO_parse_combined_options, 88: DONE ADD 
+[2025-04-09 15:46:16] [DEBUG] main, 18: End 
+[2025-04-09 15:51:38] [DEBUG] main, 11: Start 
+[2025-04-09 15:51:38] [DEBUG] PO_parse_combined_options, 134: ERROR DELETE ALL
+[2025-04-09 15:51:38] [DEBUG] main, 18: End 
+[2025-04-10 09:43:34] [DEBUG] main, 11: Start 
+[2025-04-10 09:43:34] [DEBUG] main, 18: End 
+[2025-04-10 09:47:55] [DEBUG] main, 11: Start 
+[2025-04-10 09:47:55] [DEBUG] main, 18: End 
+[2025-04-10 09:48:54] [DEBUG] main, 11: Start 
+[2025-04-10 09:48:54] [DEBUG] PO_parse_combined_options, 120: DONE DELETE
+[2025-04-10 09:48:54] [DEBUG] main, 18: End 
+[2025-04-10 09:50:32] [DEBUG] main, 11: Start 
+[2025-04-10 09:50:32] [DEBUG] PO_parse_combined_options, 134: ERROR DELETE ALL
+[2025-04-10 09:50:32] [DEBUG] main, 18: End 
+[2025-04-10 09:50:49] [DEBUG] main, 11: Start 
+[2025-04-10 09:50:49] [DEBUG] main, 18: End 
+[2025-04-10 09:51:03] [DEBUG] main, 11: Start 
+[2025-04-10 09:51:03] [DEBUG] PO_parse_combined_options, 99: Searching for: br0
+[2025-04-10 09:51:03] [DEBUG] PO_parse_combined_options, 105: DONE SEARCH
+[2025-04-10 09:51:03] [DEBUG] main, 18: End 

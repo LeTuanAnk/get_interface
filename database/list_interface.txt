@@ -1,0 +1,232 @@
+Name: br0
+MAC: A4:F4:C2:0B:6F:50
+IPv4: 192.168.1.1
+Bcast: 192.168.1.255
+Mask: 255.255.255.0
+IPv6: fe80::1/64
+Status: UP
+--------------------------
+Name: br1
+MAC: A4:F4:C2:0B:6F:51
+IPv4: 192.168.2.1
+Bcast: 192.168.2.255
+Mask: 255.255.255.0
+IPv6: fe80::1/64
+Status: UP
+--------------------------
+Name: br3
+MAC: A4:F4:C2:0B:6F:50
+IPv4: 
+Bcast: 
+Mask: 
+IPv6: fe80::1/64
+Status: UP
+--------------------------
+Name: eth0
+MAC: A4:F4:C2:0B:6F:50
+IPv4: 
+Bcast: 
+Mask: 
+IPv6: 
+Status: UP
+--------------------------
+Name: eth0.1
+MAC: A4:F4:C2:0B:6F:50
+IPv4: 
+Bcast: 
+Mask: 
+IPv6: 
+Status: DOWN
+--------------------------
+Name: eth0.2
+MAC: A4:F4:C2:0B:6F:50
+IPv4: 
+Bcast: 
+Mask: 
+IPv6: 
+Status: UP
+--------------------------
+Name: eth0.3
+MAC: A4:F4:C2:0B:6F:50
+IPv4: 
+Bcast: 
+Mask: 
+IPv6: 
+Status: UP
+--------------------------
+Name: eth0.4
+MAC: A4:F4:C2:0B:6F:50
+IPv4: 
+Bcast: 
+Mask: 
+IPv6: 
+Status: UP
+--------------------------
+Name: ip6tnl0
+MAC: 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+IPv4: 
+Bcast: 
+Mask: 
+IPv6: 
+Status: DOWN
+--------------------------
+Name: lo
+MAC: 
+IPv4: 127.0.0.1
+Bcast: 
+Mask: 255.0.0.0
+IPv6: ::1/128
+Status: UP
+--------------------------
+Name: nas0
+MAC: A4:F4:C2:0B:6F:50
+IPv4: 10.84.22.6
+Bcast: 10.84.22.255
+Mask: 255.255.255.0
+IPv6: fe80::a6f4:c2ff:fe0b:6f50/64
+Status: UP
+--------------------------
+Name: nas1
+MAC: A4:F4:C2:0B:6F:51
+IPv4: 
+Bcast: 
+Mask: 
+IPv6: fe80::a6f4:c2ff:fe0b:6f51/64
+Status: UP
+--------------------------
+Name: oam
+MAC: A4:F4:C2:0B:6F:50
+IPv4: 
+Bcast: 
+Mask: 
+IPv6: 
+Status: UP
+--------------------------
+Name: omci
+MAC: A4:F4:C2:0B:6F:50
+IPv4: 
+Bcast: 
+Mask: 
+IPv6: 
+Status: UP
+--------------------------
+Name: pon
+MAC: A4:F4:C2:0B:6F:50
+IPv4: 
+Bcast: 
+Mask: 
+IPv6: 
+Status: UP
+--------------------------
+Name: ppp1
+MAC: 
+IPv4: 123.16.5.172
+Bcast: 
+Mask: 255.255.255.255
+IPv6: 
+Status: UP
+--------------------------
+Name: ra0
+MAC: A4:F4:C2:0B:6F:50
+IPv4: 
+Bcast: 
+Mask: 
+IPv6: 
+Status: DOWN
+--------------------------
+Name: ra1
+MAC: A6:F4:C2:5B:6F:51
+IPv4: 
+Bcast: 
+Mask: 
+IPv6: 
+Status: DOWN
+--------------------------
+Name: ra2
+MAC: A6:F4:C2:6B:6F:51
+IPv4: 
+Bcast: 
+Mask: 
+IPv6: 
+Status: DOWN
+--------------------------
+Name: ra3
+MAC: A6:F4:C2:7B:6F:51
+IPv4: 
+Bcast: 
+Mask: 
+IPv6: 
+Status: DOWN
+--------------------------
+Name: rai0
+MAC: A4:F4:C2:0B:6F:51
+IPv4: 
+Bcast: 
+Mask: 
+IPv6: 
+Status: UP
+--------------------------
+Name: rai1
+MAC: A6:F4:C2:1B:6F:51
+IPv4: 
+Bcast: 
+Mask: 
+IPv6: 
+Status: UP
+--------------------------
+Name: rai2
+MAC: A6:F4:C2:2B:6F:51
+IPv4: 
+Bcast: 
+Mask: 
+IPv6: 
+Status: UP
+--------------------------
+Name: rai3
+MAC: 00:00:00:00:00:00
+IPv4: 
+Bcast: 
+Mask: 
+IPv6: 
+Status: DOWN
+--------------------------
+Name: sit0
+MAC: 00-00-00-00-40-E8-00-47-00-00-00-00-00-00-00-00
+IPv4: 
+Bcast: 
+Mask: 
+IPv6: 
+Status: DOWN
+--------------------------
+Name: wdsi0
+MAC: A4:F4:C2:0B:6F:51
+IPv4: 
+Bcast: 
+Mask: 
+IPv6: 
+Status: DOWN
+--------------------------
+Name: wdsi1
+MAC: A4:F4:C2:0B:6F:51
+IPv4: 
+Bcast: 
+Mask: 
+IPv6: 
+Status: DOWN
+--------------------------
+Name: wdsi2
+MAC: A4:F4:C2:0B:6F:51
+IPv4: 
+Bcast: 
+Mask: 
+IPv6: 
+Status: DOWN
+--------------------------
+Name: wdsi3
+MAC: A4:F4:C2:0B:6F:51
+IPv4: 
+Bcast: 
+Mask: 
+IPv6: 
+Status: DOWN
+--------------------------
